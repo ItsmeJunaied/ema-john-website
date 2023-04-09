@@ -1,0 +1,24 @@
+.cart {
+    background-color: #FF99004D;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.cart p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+
+}
+.btn_clr{
+    width: 90%;
+    height: 50px;
+    background-color: red;
+    border-color: transparent;
+    border-radius: 20px;
+}
